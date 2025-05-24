@@ -30,4 +30,32 @@ A simple, elegant Weather App built with vanilla JavaScript using the OpenWeathe
 
 ```bash
 git clone https://github.com/Kamala-Samanta/Weather-app.git
+```
+2. Navigate into the project folder
+
+```bash
+cd weather-app
+```
+3. Open index.html in your browser
+
+---
+
+## 🔑 API Key Setup
+To use your own OpenWeather API key:
+
+Go to https://openweathermap.org/api and create an account.
+
+1. Generate your free API key.
+
+2. Replace 'YOUR_API_KEY' in the JS file with your actual API key:
+
+```bash
+const apiKey = "YOUR_API_KEY";
+```
+
+✨ Built with love and JavaScript ⚡
+
+
+   
+
 
